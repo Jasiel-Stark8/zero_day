@@ -39,5 +39,10 @@ I resolved it by pushing to the command ``` git push --set-upstream origin maste
 This command created an upstream tracking reference so that `git pull` and `git push` will work without any arguments.
 
 It then prompted for Authentication
-`Username for 'https://github.com':` <Jasiel-Stark8>
-`Password for 'https://Jasiel-Stark8@github.com':` <Personal Access Token>
+```css
+Username for 'https://github.com': Jasiel-Stark8
+```
+
+```css
+Password for 'https://Jasiel-Stark8@github.com': <Personal Access Token>
+```
